@@ -1,0 +1,23 @@
+{
+  "name": "web-redux",
+  "version": "1.0.0",
+  "description": "Simple Website with todo list functionality",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Wally97/Web-Redux.git"
+  },
+  "author": "Connor Wallace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-Wally97/Web-Redux/issues"
+  },
+  "homepage": "https://github.com/C-Wally97/Web-Redux#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
